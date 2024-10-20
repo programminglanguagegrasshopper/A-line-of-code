@@ -1,0 +1,2 @@
+printf(“pizza sucks\n”);
+return 0;
